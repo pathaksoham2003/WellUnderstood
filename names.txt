@@ -1,2 +1,0 @@
-Soham Pathak is learning Git and GitHub.
-This is the second time I am entering this file to make some changes.
